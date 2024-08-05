@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Chakra Petch", sans-serif;
+}
+
+/* รูปภาพ */
+.carousel-item{
+    height: 600px;
+}
+
+.carousel-image-1{
+    background-image: url(img/istockphoto-1311598658-1024x1024.jpg);
+    background-size: cover;
+}
+
+.carousel-image-2{
+    background-image: url(img/istockphoto-1311598658-1024x1024.jpg);
+    background-size: cover;
+}
+
+.carousel-image-3{
+    background-image: url(img/istockphoto-1311598658-1024x1024.jpg);
+    background-size: cover;
+}
